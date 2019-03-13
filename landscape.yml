@@ -979,7 +979,7 @@
             repo_url: 'https://github.com/intel/multus-cni'
             logo: multus.svg
             crunchbase: 'https://www.crunchbase.com/organization/intel'
-            - item:
+          - item:
             name: NetFoundry
             homepage_url: 'https://netfoundry.io/'
             repo_url: ''
